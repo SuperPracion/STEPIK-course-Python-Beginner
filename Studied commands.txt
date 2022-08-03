@@ -1,2 +1,4 @@
 print()
 input()
+print(sep=*)
+print(end=*)
