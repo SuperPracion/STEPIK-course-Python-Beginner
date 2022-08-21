@@ -1,0 +1,10 @@
+in_str = input()
+
+print(in_str[2])
+print(in_str[-1])
+print(in_str[0:5])
+print(in_str[:-2])
+print(in_str[::2])
+print(in_str[1::2])
+print(in_str[::-1])
+print(in_str[::-2])
